@@ -24,4 +24,4 @@
 
 \
 \
-I'm a web developer, passionate about the problem solving and creative aspects of software development. Having graduated in Business Administration, I re-discovered my passion for coding when developing some complex Excel reports. I am now pursuing a career in the exciting and ever-changing field of web development.\
+I'm a web developer, passionate about the problem solving and creative aspects of software development. Having graduated in Business Administration, I re-discovered my passion for coding when developing some complex Excel reports. I am now pursuing a career in the exciting and ever-changing field of web development.
