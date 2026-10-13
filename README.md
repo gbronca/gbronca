@@ -1,28 +1,74 @@
-# Hi, my name is Giovanni
+<h1 align="center">Hi, I'm Giovanni 👋</h1>
 
-## 👨🏻‍💻 I'm a Full Stack Web Developer 👨🏻‍💻
+<p align="center">
+  <b>Software Developer &amp; Data Engineer</b><br />
+  I build reliable data pipelines, APIs and web apps, and turn messy problems into tidy software
+</p>
 
-\
-\
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Wagtail](https://img.shields.io/badge/Wagtail-43B1B0?style=for-the-badge&logo=wagtail&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![GIT](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<p align="center">
+  <a href="https://www.linkedin.com/in/gbronca/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
-\
-\
-I'm a web developer, passionate about the problem solving and creative aspects of software development. Having graduated in Business Administration, I re-discovered my passion for coding when developing some complex Excel reports.
+---
+
+## About me
+
+I'm a Python developer and data engineer with 5+ years of experience building scalable ETL/ELT pipelines, REST and GraphQL APIs, and backend data services. I care about data validation, readable code, solid tooling (CI/CD, linting, type annotations, tests) and clear communication with both technical and non-technical teams.
+
+I studied Business Administration, then fell back in love with problem solving while building some very complex Excel reports. That curiosity turned into a career in software, and I'm currently deepening my craft at [42 Lausanne](https://42lausanne.ch). I'm also exploring AI-assisted development with Claude Code, OpenAI Codex and GitHub Copilot.
+
+## Tech stack
+
+### Languages & frameworks
+
+<img src="https://skillicons.dev/icons?i=py,c,js,fastapi,flask,django" alt="Python, C, JavaScript, FastAPI, Flask, Django" />
+
+Python tooling: uv - Ruff - mypy
+
+### Data engineering
+
+<img src="https://skillicons.dev/icons?i=graphql,postgres,mysql,sqlite,mongodb" alt="GraphQL, PostgreSQL, MySQL, SQLite, MongoDB" />
+
+ETL/ELT pipelines - REST & GraphQL APIs - data validation & migration
+
+<img height="20" src="https://cdn.simpleicons.org/pandas/8b949e" alt="Pandas" /> Pandas &nbsp;&nbsp; <img height="20" src="https://cdn.simpleicons.org/sqlalchemy/8b949e" alt="SQLAlchemy" /> SQLAlchemy &nbsp;&nbsp; <img height="20" src="https://cdn.simpleicons.org/plotly/8b949e" alt="Plotly Dash" /> Plotly Dash
+
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,githubactions,git" alt="AWS, Google Cloud, GitHub Actions, Git" />
+
+### AI tools
+
+<img height="20" src="https://cdn.simpleicons.org/claude/8b949e" alt="Claude Code" /> Claude Code &nbsp;&nbsp; OpenAI Codex &nbsp;&nbsp; <img height="20" src="https://cdn.simpleicons.org/huggingface/8b949e" alt="Hugging Face" /> Hugging Face &nbsp;&nbsp; <img height="20" src="https://cdn.simpleicons.org/githubcopilot/8b949e" alt="GitHub Copilot" /> GitHub Copilot
+
+### Currently
+
+- Studying software engineering at [42 Lausanne](https://42lausanne.ch), with projects in both C and Python
+- Exploring AI-assisted development with Claude Code, OpenAI Codex and GitHub Copilot
+- Building data pipelines and APIs in Python
+
+## GitHub at a glance
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gbronca&show_icons=true&hide_border=true&theme=transparent&title_color=0A66C2&icon_color=0A66C2&text_color=8b949e" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=gbronca&show_icons=true&hide_border=true&theme=transparent&title_color=0A66C2&icon_color=0A66C2&text_color=57606a" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gbronca&layout=compact&hide_border=true&theme=transparent&title_color=0A66C2&text_color=8b949e" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbronca&layout=compact&hide_border=true&theme=transparent&title_color=0A66C2&text_color=57606a" alt="Top languages" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=gbronca&hide_border=true&background=00000000&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2&currStreakNum=e6edf3&sideNums=e6edf3&sideLabels=8b949e&dates=8b949e" />
+    <img height="165" src="https://streak-stats.demolab.com/?user=gbronca&hide_border=true&background=00000000&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2&currStreakNum=24292f&sideNums=24292f&sideLabels=57606a&dates=57606a" alt="GitHub streak" />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <sub>Always happy to chat about code, data, or a good spreadsheet. Reach out on <a href="https://www.linkedin.com/in/gbronca/">LinkedIn</a>.</sub>
+</p>
