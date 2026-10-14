@@ -13,21 +13,19 @@
 
 ## About me
 
-I'm a Python developer and data engineer with 5+ years of experience building scalable ETL/ELT pipelines, REST and GraphQL APIs, and backend data services. I care about data validation, readable code, solid tooling (CI/CD, linting, type annotations, tests) and clear communication with both technical and non-technical teams.
-
-I studied Business Administration, then fell back in love with problem solving while building some very complex Excel reports. That curiosity turned into a career in software, and I'm currently deepening my craft at [42 Lausanne](https://42lausanne.ch). I'm also exploring AI-assisted development with Claude Code, OpenAI Codex and GitHub Copilot.
+I'm a Python developer and data engineer with 5+ years of experience building scalable ETL/ELT pipelines, REST APIs, and backend data services.
 
 ## Tech stack
 
 ### Languages & frameworks
 
-<img src="https://skillicons.dev/icons?i=py,c,js,fastapi,flask,django" alt="Python, C, JavaScript, FastAPI, Flask, Django" />
+![Python, C, JavaScript, FastAPI, Flask, Django](https://skillicons.dev/icons?i=py,c,js,fastapi,flask,django)
 
 Python tooling: uv - Ruff - mypy
 
 ### Data engineering
 
-<img src="https://skillicons.dev/icons?i=graphql,postgres,mysql,sqlite,mongodb" alt="GraphQL, PostgreSQL, MySQL, SQLite, MongoDB" />
+![GraphQL, PostgreSQL, MySQL, SQLite, MongoDB](https://skillicons.dev/icons?i=graphql,postgres,mysql,sqlite,mongodb)
 
 ETL/ELT pipelines - REST & GraphQL APIs - data validation & migration
 
@@ -35,7 +33,7 @@ ETL/ELT pipelines - REST & GraphQL APIs - data validation & migration
 
 ### Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,githubactions,git" alt="AWS, Google Cloud, GitHub Actions, Git" />
+![AWS, Google Cloud, GitHub Actions, Git](https://skillicons.dev/icons?i=aws,gcp,githubactions,git)
 
 ### AI tools
 
