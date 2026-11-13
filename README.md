@@ -19,12 +19,12 @@ I'm a Python developer and data engineer with 5+ years of experience building sc
 
 ### Languages & frameworks
 
-<img height="48" src="assets/icons/py.svg" alt="Python" />
-<img height="48" src="assets/icons/c.svg" alt="C" />
-<img height="48" src="assets/icons/js.svg" alt="JavaScript" />
-<img height="48" src="assets/icons/fastapi.svg" alt="FastAPI" />
-<img height="48" src="assets/icons/flask.svg" alt="Flask" />
-<img height="48" src="assets/icons/django.svg" alt="Django" />
+<img height="48" src="assets/icons/py.svg" alt="Python" />&nbsp;
+<img height="48" src="assets/icons/c.svg" alt="C" />&nbsp;
+<img height="48" src="assets/icons/js.svg" alt="JavaScript" />&nbsp;
+<img height="48" src="assets/icons/fastapi.svg" alt="FastAPI" />&nbsp;
+<img height="48" src="assets/icons/flask.svg" alt="Flask" />&nbsp;
+<img height="48" src="assets/icons/django.svg" alt="Django" />&nbsp;
 
 <img height="48" align="middle" src="assets/icons/uv.svg" alt="uv" /> uv &nbsp;&nbsp;
 <img height="48" align="middle" src="assets/icons/ruff.svg" alt="Ruff" /> Ruff &nbsp;&nbsp;
