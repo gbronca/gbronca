@@ -32,11 +32,11 @@ I'm a Python developer and data engineer with 5+ years of experience building sc
 
 ### Data engineering
 
-<img height="48" src="assets/icons/mysql.svg" alt="MySQL" />
-<img height="48" src="assets/icons/postgres.svg" alt="PostgreSQL" />
-<img height="48" src="assets/icons/sqlite.svg" alt="SQLite" />
-<img height="48" src="assets/icons/mongodb.svg" alt="MongoDB" />
-<img height="48" src="assets/icons/graphql.svg" alt="GraphQL" />
+<img height="48" src="assets/icons/mysql.svg" alt="MySQL" />&nbsp;
+<img height="48" src="assets/icons/postgres.svg" alt="PostgreSQL" />&nbsp;
+<img height="48" src="assets/icons/sqlite.svg" alt="SQLite" />&nbsp;
+<img height="48" src="assets/icons/mongodb.svg" alt="MongoDB" />&nbsp;
+<img height="48" src="assets/icons/graphql.svg" alt="GraphQL" />&nbsp;
 
 <img height="48" align="middle" src="assets/icons/pandas.svg" alt="Pandas" /> Pandas &nbsp;&nbsp;
 <img height="48" align="middle" src="assets/icons/sqlalchemy.svg" alt="SQLAlchemy" /> SQLAlchemy &nbsp;&nbsp;
@@ -44,11 +44,11 @@ I'm a Python developer and data engineer with 5+ years of experience building sc
 
 ### Cloud, DevOps & Tools
 
-<img height="48" src="assets/icons/aws.svg" alt="AWS" />
-<img height="48" src="assets/icons/gcp.svg" alt="Google Cloud" />
-<img height="48" src="assets/icons/git.svg" alt="Git" />
-<img height="48" src="assets/icons/github.svg" alt="GitHub" />
-<img height="48" src="assets/icons/githubactions.svg" alt="GitHub Actions" />
+<img height="48" src="assets/icons/aws.svg" alt="AWS" />&nbsp;
+<img height="48" src="assets/icons/gcp.svg" alt="Google Cloud" />&nbsp;
+<img height="48" src="assets/icons/git.svg" alt="Git" />&nbsp;
+<img height="48" src="assets/icons/github.svg" alt="GitHub" />&nbsp;
+<img height="48" src="assets/icons/githubactions.svg" alt="GitHub Actions" />&nbsp;
 <img height="48" src="assets/icons/vscode.svg" alt="VS Code" />
 
 ### AI tools
