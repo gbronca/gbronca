@@ -19,29 +19,48 @@ I'm a Python developer and data engineer with 5+ years of experience building sc
 
 ### Languages & frameworks
 
-![Python, C, JavaScript, FastAPI, Flask, Django](https://skillicons.dev/icons?i=py,c,js,fastapi,flask,django)
+<img height="48" src="assets/icons/py.svg" alt="Python" />
+<img height="48" src="assets/icons/c.svg" alt="C" />
+<img height="48" src="assets/icons/js.svg" alt="JavaScript" />
+<img height="48" src="assets/icons/fastapi.svg" alt="FastAPI" />
+<img height="48" src="assets/icons/flask.svg" alt="Flask" />
+<img height="48" src="assets/icons/django.svg" alt="Django" />
 
-Python tooling: uv - Ruff - mypy
+<img height="48" align="middle" src="assets/icons/uv.svg" alt="uv" /> uv &nbsp;&nbsp;
+<img height="48" align="middle" src="assets/icons/ruff.svg" alt="Ruff" /> Ruff &nbsp;&nbsp;
+<img height="48" align="middle" src="assets/icons/mypy.svg" alt="mypy" /> mypy
 
 ### Data engineering
 
-![GraphQL, PostgreSQL, MySQL, SQLite, MongoDB](https://skillicons.dev/icons?i=graphql,postgres,mysql,sqlite,mongodb)
+<img height="48" src="assets/icons/mysql.svg" alt="MySQL" />
+<img height="48" src="assets/icons/postgres.svg" alt="PostgreSQL" />
+<img height="48" src="assets/icons/sqlite.svg" alt="SQLite" />
+<img height="48" src="assets/icons/mongodb.svg" alt="MongoDB" />
+<img height="48" src="assets/icons/graphql.svg" alt="GraphQL" />
 
-ETL/ELT pipelines - REST & GraphQL APIs - data validation & migration
+<img height="48" align="middle" src="assets/icons/pandas.svg" alt="Pandas" /> Pandas &nbsp;&nbsp;
+<img height="48" align="middle" src="assets/icons/sqlalchemy.svg" alt="SQLAlchemy" /> SQLAlchemy &nbsp;&nbsp;
+<img height="48" align="middle" src="assets/icons/plotly.svg" alt="Plotly Dash" /> Plotly Dash
 
-<img height="20" src="https://cdn.simpleicons.org/pandas/8b949e" alt="Pandas" /> Pandas &nbsp;&nbsp; <img height="20" src="https://cdn.simpleicons.org/sqlalchemy/8b949e" alt="SQLAlchemy" /> SQLAlchemy &nbsp;&nbsp; <img height="20" src="https://cdn.simpleicons.org/plotly/8b949e" alt="Plotly Dash" /> Plotly Dash
+### Cloud, DevOps & Tools
 
-### Cloud & DevOps
-
-![AWS, Google Cloud, GitHub Actions, Git](https://skillicons.dev/icons?i=aws,gcp,githubactions,git)
+<img height="48" src="assets/icons/aws.svg" alt="AWS" />
+<img height="48" src="assets/icons/gcp.svg" alt="Google Cloud" />
+<img height="48" src="assets/icons/git.svg" alt="Git" />
+<img height="48" src="assets/icons/github.svg" alt="GitHub" />
+<img height="48" src="assets/icons/githubactions.svg" alt="GitHub Actions" />
+<img height="48" src="assets/icons/vscode.svg" alt="VS Code" />
 
 ### AI tools
 
-<img height="20" src="https://cdn.simpleicons.org/claude/8b949e" alt="Claude Code" /> Claude Code &nbsp;&nbsp; OpenAI Codex &nbsp;&nbsp; <img height="20" src="https://cdn.simpleicons.org/huggingface/8b949e" alt="Hugging Face" /> Hugging Face &nbsp;&nbsp; <img height="20" src="https://cdn.simpleicons.org/githubcopilot/8b949e" alt="GitHub Copilot" /> GitHub Copilot
+<img height="48" align="middle" src="assets/icons/claude.svg" alt="Claude" /> Claude &nbsp;&nbsp;
+<img height="48" align="middle" src="assets/icons/claude-code.svg" alt="Claude Code" /> Claude Code &nbsp;&nbsp;
+<img height="48" align="middle" src="assets/icons/codex.svg" alt="OpenAI Codex" /> OpenAI Codex &nbsp;&nbsp;
+<img height="48" align="middle" src="assets/icons/huggingface.svg" alt="Hugging Face" /> Hugging Face &nbsp;&nbsp;
+<img height="48" align="middle" src="assets/icons/githubcopilot.svg" alt="GitHub Copilot" /> GitHub Copilot
 
 ### Currently
 
-- Studying software engineering at [42 Lausanne](https://42lausanne.ch), with projects in both C and Python
 - Exploring AI-assisted development with Claude Code, OpenAI Codex and GitHub Copilot
 - Building data pipelines and APIs in Python
 
